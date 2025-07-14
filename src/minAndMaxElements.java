@@ -3,6 +3,7 @@ public class minAndMaxElements {
     public static void main(String[] args) {
         int[] array = {10,-3,5,6,7};
         int length = array.length;
+
         minAndMaxElements(array, length);
     }
 
