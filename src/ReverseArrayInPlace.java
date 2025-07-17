@@ -17,5 +17,9 @@ public class ReverseArrayInPlace {
 
         for(int i : a)
             System.out.println(i);
+
+
+        //TC: O(N)
+        //SC: O(1)
     }
 }
