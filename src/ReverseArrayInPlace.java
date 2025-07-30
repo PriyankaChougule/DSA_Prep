@@ -19,7 +19,7 @@ public class ReverseArrayInPlace {
             System.out.println(i);
 
 
-        //TC: O(N)
+        //TC: O(N/2)
         //SC: O(1)
     }
 }
